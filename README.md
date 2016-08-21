@@ -1,6 +1,4 @@
-[![npm download][download-image]][download-url]
-
-[download-url]: https://npmjs.org/package/jsontile
+![jsontile](https://nodei.co/npm/jsontile.png?downloads=true&stars=true)
 
 JsonTile is a util for transform the json format
 ======
