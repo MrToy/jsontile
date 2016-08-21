@@ -8,7 +8,7 @@ JsonTile is a util for transform the json format
 ### NPM
 
 ```bash
-$ npm install xss
+$ npm install jsontile
 ```
 
 ## Usages
