@@ -1,0 +1,24 @@
+{
+  "name": "jsontile",
+  "version": "1.0.0",
+  "description": "Tail the json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrToy/jsontile.git"
+  },
+  "keywords": [
+    "json",
+    "map",
+    "tile"
+  ],
+  "author": "toy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrToy/jsontile/issues"
+  },
+  "homepage": "https://github.com/MrToy/jsontile#readme"
+}
